@@ -5,6 +5,9 @@ This research repository was created for the course Markup Languages and Reprodu
 Short description of the files:
 
 Research Report.pdf - *Research manuscript*
+
 Research Report.tex - *Reproduction file of research manuscript*
+
 simulation.R - *Simulation code to reproduce all presented results*
+
 simulation results - *All simulation results presented in the manuscript*
